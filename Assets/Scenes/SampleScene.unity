@@ -2949,7 +2949,7 @@ CharacterController:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4294967295
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3095,10 +3095,10 @@ MonoBehaviour:
   currentState: 0
   viewDistance: 10
   viewAngle: 90
-  eyeHeight: 1.6
+  eyeHeight: 1
   obstacleMask:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 0
   playerMask:
     serializedVersion: 2
     m_Bits: 8
